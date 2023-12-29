@@ -7,3 +7,5 @@
 ## Technologies
 Project is created with:
 * R in RStudio
+## Technologies
+The databases on which I created the project is built into Rstudio. Database - Iris.
